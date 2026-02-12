@@ -7,7 +7,6 @@ Official implementation of the paper [**Stop Unnecessary Reflection: Training LR
 - [Overview](#overview)
 - [Installation](#installation)
 - [Dataset](#dataset)
-- [Preprocessing](#preprocessing)
 - [Training](#training)
 - [Evaluation](#evaluation)
 - [Analysis](#analysis)
