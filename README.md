@@ -105,12 +105,13 @@ ARLCP builds upon [veRL](https://github.com/volcengine/verl), [AdaptThink](https
 If you find this repo useful, please cite the paper:
 
 ```bibtex
-@inproceedings{
-yu2026stop,
-title={Stop Unnecessary Reflection: Training {LRM}s for Efficient Reasoning with Adaptive Reflection and Length Coordinated Penalty},
-author={Zewei Yu and Lirong Gao and Sheng Guo and Yuke Zhu and Bo Zheng and Junbo Zhao and Haobo Wang},
-booktitle={The Fourteenth International Conference on Learning Representations},
-year={2026},
-url={https://openreview.net/forum?id=aRzEtK9Ite}
+@misc{yu2026stopunnecessaryreflectiontraining,
+      title={Stop Unnecessary Reflection: Training LRMs for Efficient Reasoning with Adaptive Reflection and Length Coordinated Penalty}, 
+      author={Zewei Yu and Lirong Gao and Yuke Zhu and Bo Zheng and Sheng Guo and Haobo Wang and Junbo Zhao},
+      year={2026},
+      eprint={2602.12113},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2602.12113}, 
 }
 ```
