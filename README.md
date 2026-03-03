@@ -1,4 +1,4 @@
-# [ICLR2026] Stop Unnecessary Reflection: Training LRMs for Efficient Reasoning with Adaptive Reflection and Length Coordinated Penalty
+ [ICLR2026] Stop Unnecessary Reflection: Training LRMs for Efficient Reasoning with Adaptive Reflection and Length Coordinated Penalty
 
 Official implementation of the paper [**Stop Unnecessary Reflection: Training LRMs for Efficient Reasoning with Adaptive Reflection and Length Coordinated Penalty**](https://openreview.net/forum?id=aRzEtK9Ite).
 
@@ -107,7 +107,7 @@ If you find this repo useful, please cite the paper:
 ```bibtex
 @misc{yu2026stopunnecessaryreflectiontraining,
       title={Stop Unnecessary Reflection: Training LRMs for Efficient Reasoning with Adaptive Reflection and Length Coordinated Penalty}, 
-      author={Zewei Yu and Lirong Gao and Yuke Zhu and Bo Zheng and Sheng Guo and Haobo Wang and Junbo Zhao},
+      author={Zewei Yu and Lirong Gao and Yuke Zhu and Bo Zheng and Junbo Zhao and Sheng Guo and Haobo Wang},
       year={2026},
       eprint={2602.12113},
       archivePrefix={arXiv},
